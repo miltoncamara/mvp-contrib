@@ -1,0 +1,8 @@
+{
+  "name": "mvp-contrib",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "0b75d6a1"
+}
